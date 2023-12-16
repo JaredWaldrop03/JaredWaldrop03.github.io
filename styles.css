@@ -5,13 +5,13 @@ body {
   flex-wrap: wrap;
 }
 h1 {
-  color: orange;
+  color: dark red;
   text-align: center;
   width: 100%;
   display: block;
 }
 h2:hover{
-  color: green;
+  color: dark blue;
   text-align: center;
   width: 100%;
   display: block;
